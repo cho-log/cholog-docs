@@ -14,6 +14,8 @@
 - [ ] 디스코드 운영진 채널에서 초대 링크 요청 
   - [ ] LMS (학습 컨텐츠)
   - [ ] 디스코드
+- [ ] 디스코드에 진행하는 스터디 그룹의 채널 만들기
+  - `스터디` 카테고리 하위에 생성 
 
 ### 스터디 진행 중
 - [ ] 스터디를 진행하며 필요한 사항 요청 및 진행 상황 공유
@@ -22,7 +24,8 @@
 
 ### 스터디 완료 후
 - [ ] 스터디 설문 진행
-  - [설문 항목 예시](https://docs.google.com/forms/d/e/1FAIpQLSeUI9yPDgRnZwdgRaMmalPvQfH4txpjpfNvbK9C8GZn63yb6A/viewform) 
+  - 설문 항목은 자유롭게 구성하시되, 아래 예시에 있는 항목을 포함해주시길 바랍니다.  
+  - [설문 항목 예시](https://docs.google.com/forms/d/e/1FAIpQLSeUI9yPDgRnZwdgRaMmalPvQfH4txpjpfNvbK9C8GZn63yb6A/viewform)
 - [ ] 운영 후기 공유
 
 ## 디스코드
